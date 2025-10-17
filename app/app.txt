@@ -3,3 +3,6 @@
    sequential execution is only deviated from when an interrupt event occurs.
 
 ...
+
+El valor máximo alcanzado por la variable g_app_runtime ha sido 2
+Para WCET= 34056
